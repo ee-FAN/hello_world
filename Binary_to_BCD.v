@@ -3,7 +3,7 @@ module Binary_to_BCD
 	input wire [15:0] binary,
 	output wire [15:0] BCD_code
 );
-
+//jdsklfjskl
 wire [3:0] a1,a2,a3,a4,a5,a6,a7;
 wire [3:0] b1,b2,b3,b4,b5,b6,b7;
 
